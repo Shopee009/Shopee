@@ -1,0 +1,12 @@
+$ORIGIN iibbrrimo-aktiva.my.id.
+@	3600	IN	SOA	ns1.cloudns.net. support.cloudns.net. 2023121005 7200 1800 1209600 3600
+shopee-pemenang	60	IN	A	114.10.99.159
+blog	3600	IN	CNAME	shopee-pemanang.wordpress.com.
+@	3600	IN	NS	ns1.cloudns.net.
+@	3600	IN	NS	ns2.cloudns.net.
+@	3600	IN	NS	ns3.cloudns.net.
+@	3600	IN	NS	ns4.cloudns.net.
+@	3600	IN	NS	pns1.cloudns.net.
+@	3600	IN	NS	pns2.cloudns.net.
+@	3600	IN	NS	pns3.cloudns.net.
+@	3600	IN	NS	pns4.cloudns.net.
